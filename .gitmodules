@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/znu4847/pdf-gpt-team-prj-front.git
+[submodule "api"]
+	path = api
+	url = https://github.com/znu4847/pdf-gpt-team-prj-api.git
